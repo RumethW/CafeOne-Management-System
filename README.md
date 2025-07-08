@@ -1,4 +1,4 @@
-☕ Cafe Management System with POS
+☕ CafeOne Cafe Management System with POS
 
 A comprehensive Java Swing-based Cafe Management System designed to streamline day-to-day operations in a cafe environment. The application features a built-in Point of Sale (POS) module and offers dedicated interfaces for both Admin and Cashier roles.
 

@@ -7,58 +7,58 @@ _______________
 
 ✅ Role-based Access
 
-  ●  Separate user interfaces for Admin and Cashier
+●  Separate user interfaces for Admin and Cashier
 
-  ●  Login authentication and access control
+●  Login authentication and access control
 
 🌍 Multilingual Support
 
-  ●  Supports English, French, and Italian
+●  Supports English, French, and Italian
 
 🧑‍💼 User & Staff Management
 
-  ●  Add, update, and delete users
+●  Add, update, and delete users
 
-  ●  View and manage staff details
+●  View and manage staff details
 
 🛒 Product & Category Management
 
-  ●  Manage food and drink categories
+●  Manage food and drink categories
+  
+●  Add new menu items with price and stock
 
-  ●  Add new menu items with price and stock
-
-  ●  Modify or remove existing items
+●  Modify or remove existing items
 
 💰 Point of Sale (POS) Module
 
-  ●  Intuitive interface for handling customer orders
+●  Intuitive interface for handling customer orders
 
-  ●  Auto price calculation and receipt generation
+●  Auto price calculation and receipt generation
 
-  ●  Sales history tracking
+●  Sales history tracking
 
 🖥️ Interactive Java GUI
 
-  ●  Over 10 fully interactive and well-structured screens
+●  Over 10 fully interactive and well-structured screens
 
-  ●  Built using Java Swing for a responsive and user-friendly experience
+●  Built using Java Swing for a responsive and user-friendly experience
 _______________
 
 🛠️ Tech Stack
 
-  ●  Language: Java
+●  Language: Java
   
-  ●  GUI Framework: Java Swing
+●  GUI Framework: Java Swing
   
-  ●  Database: SQL
+●  Database: SQL
   
-  ●  IDE: Apache NetBeans
+●  IDE: Apache NetBeans
 
 _______________
 🔐 User Roles
 
-  ●  Role	Permissions
+●  Role	Permissions
 
-  ●  Admin	Full access: user management, staff info, product/category handling, view reports
+●  Admin	Full access: user management, staff info, product/category handling, view reports
 
-  ●  Cashier access: POS module, order processing, view items only
+●  Cashier access: POS module, order processing, view items only
